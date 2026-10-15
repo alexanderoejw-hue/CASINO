@@ -1,0 +1,6 @@
+{
+  "name": "Casino Interactivo Canino",
+  "description": "Aplicación web de casino interactivo con video en bucle infinito del croupier en la pantalla principal y acceso directo a Blackjack 21, Ruleta y Plinko.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

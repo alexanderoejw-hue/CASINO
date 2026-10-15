@@ -1,0 +1,146 @@
+@import "tailwindcss";
+
+@keyframes croupier-breathe {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+@keyframes ear-twitch-left {
+  0%, 90%, 100% {
+    transform: rotate(0deg);
+  }
+  93% {
+    transform: rotate(-7deg);
+  }
+  96% {
+    transform: rotate(3deg);
+  }
+}
+
+@keyframes ear-twitch-right {
+  0%, 88%, 100% {
+    transform: rotate(0deg);
+  }
+  92% {
+    transform: rotate(6deg);
+  }
+  95% {
+    transform: rotate(-2deg);
+  }
+}
+
+@keyframes eye-blink {
+  0%, 96%, 100% {
+    transform: scaleY(1);
+  }
+  98% {
+    transform: scaleY(0.1);
+  }
+}
+
+@keyframes muzzle-talk {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(3px);
+  }
+}
+
+@keyframes plinko-float {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+    filter: drop-shadow(0 6px 14px rgba(255, 255, 255, 0.45));
+  }
+  50% {
+    transform: translateY(-8px) scale(1.02);
+    filter: drop-shadow(0 14px 22px rgba(251, 191, 36, 0.7));
+  }
+}
+
+@keyframes roulette-spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes gold-pulse {
+  0%, 100% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 0.9;
+  }
+}
+
+.animate-croupier-breathe {
+  animation: croupier-breathe 3.6s ease-in-out infinite;
+}
+
+.animate-ear-left {
+  transform-origin: 35% 25%;
+  animation: ear-twitch-left 6s ease-in-out infinite;
+}
+
+.animate-ear-right {
+  transform-origin: 65% 25%;
+  animation: ear-twitch-right 7.2s ease-in-out infinite;
+}
+
+.animate-eye-blink {
+  transform-origin: center;
+  animation: eye-blink 4.2s ease-in-out infinite;
+}
+
+/* Minecraft Authentic Nametag Style */
+.minecraft-nametag {
+  font-family: 'Press Start 2P', monospace;
+  background-color: rgba(0, 0, 0, 0.55);
+  color: #ffffff;
+  text-shadow: 2px 2px 0px #3f3f3f;
+  padding: 4px 10px;
+  border-radius: 2px;
+  font-size: 11px;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  user-select: none;
+  pointer-events: auto;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+.minecraft-nametag:hover {
+  background-color: rgba(0, 0, 0, 0.75);
+  transform: scale(1.05);
+}
+
+@media (min-width: 640px) {
+  .minecraft-nametag {
+    font-size: 13px;
+    padding: 5px 12px;
+  }
+}
+
+/* Custom Scrollbar for Long Content / Questions */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(245, 158, 11, 0.5);
+  border-radius: 8px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(245, 158, 11, 0.8);
+}

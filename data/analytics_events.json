@@ -1,0 +1,3376 @@
+[
+  {
+    "eventId": "evt_1792083440113_374ipt9",
+    "eventType": "SESSION_START",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:57:20.113Z",
+    "game": "SISTEMA",
+    "data": {
+      "initialCredits": 0,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "eventId": "evt_1792083448307_arz6cc4",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:57:28.307Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_50",
+      "question": "¿A nivel estructural, cómo afecta el cannabis al \"Hipocampo\" del cerebro en desarrollo de un adolescente?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792083503099_rh3609i",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:23.099Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_10",
+      "question": "¿Por qué la marihuana de uso médico (\"medicinal\") NO se receta a adolescentes para diversión o estrés común?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792083508997_5fwo2mc",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:28.997Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083503099_rh3609i",
+      "questionId": "retirar_10",
+      "question": "¿Por qué la marihuana de uso médico (\"medicinal\") NO se receta a adolescentes para diversión o estrés común?",
+      "selectedOption": "B",
+      "selectedText": "Porque el cerebro adolescente aún está en formación y el THC puede dañarlo permanentemente",
+      "correctOption": "B",
+      "correctText": "Porque el cerebro adolescente aún está en formación y el THC puede dañarlo permanentemente",
+      "result": "CORRECTA",
+      "feedback": "El CDC (2024) reitera que el THC interfiere con el desarrollo de conexiones cerebrales vitales antes de los 25 años",
+      "responseTimeSec": 5.9,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083508997_963hd6f",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:28.997Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 20,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792083511687_0d0ir1i",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:31.687Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_29",
+      "question": "¿Qué riesgo legal y escolar tiene ser atrapado con un vaporizador de THC en la preparatoria?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 1
+    }
+  },
+  {
+    "eventId": "evt_1792083513273_3giejt1",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:33.273Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083511687_0d0ir1i",
+      "questionId": "retirar_29",
+      "question": "¿Qué riesgo legal y escolar tiene ser atrapado con un vaporizador de THC en la preparatoria?",
+      "selectedOption": "C",
+      "selectedText": "Puede llevar a la expulsión escolar, antecedentes legales y pérdida de becas u oportunidades universitarias",
+      "correctOption": "C",
+      "correctText": "Puede llevar a la expulsión escolar, antecedentes legales y pérdida de becas u oportunidades universitarias",
+      "result": "CORRECTA",
+      "feedback": "Aparte de los riesgos a la salud documentados por el CDC, las instituciones tienen políticas de \"tolerancia cero\" que afectan drásticamente el futuro del estudiante",
+      "responseTimeSec": 1.6,
+      "rachaBefore": 1,
+      "rachaAfter": 2,
+      "creditsAwarded": 40,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083513273_nxzvtjl",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:33.273Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 40,
+      "newBalance": 60,
+      "racha": 2
+    }
+  },
+  {
+    "eventId": "evt_1792083515512_osuunoh",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:35.512Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_16",
+      "question": "¿Qué le dirías, basado en ciencia, a un compañero que asegura que \"la marihuana no hace daño porque no es una droga química como las pastillas\"?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 2
+    }
+  },
+  {
+    "eventId": "evt_1792083517074_m65mf0k",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:37.074Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083515512_osuunoh",
+      "questionId": "retirar_16",
+      "question": "¿Qué le dirías, basado en ciencia, a un compañero que asegura que \"la marihuana no hace daño porque no es una droga química como las pastillas\"?",
+      "selectedOption": "C",
+      "selectedText": "Que el THC altera químicamente las neuronas y el desarrollo del cerebro, sin importar su origen natural",
+      "correctOption": "C",
+      "correctText": "Que el THC altera químicamente las neuronas y el desarrollo del cerebro, sin importar su origen natural",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) aclara que el THC imita químicos cerebrales (endocannabinoides), alterando el funcionamiento normal de las neuronas",
+      "responseTimeSec": 1.6,
+      "rachaBefore": 2,
+      "rachaAfter": 3,
+      "creditsAwarded": 60,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083517074_pkapggm",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:37.074Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 60,
+      "newBalance": 120,
+      "racha": 3
+    }
+  },
+  {
+    "eventId": "evt_1792083518488_durztlt",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:38.488Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_38",
+      "question": "Tu amigo empezó a tener ataques de tos muy fuertes en las mañanas y a sacar flemas grises. Él jura que es asma. ¿Qué dice la ciencia si fuma marihuana a diario?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 3
+    }
+  },
+  {
+    "eventId": "evt_1792083519960_3878djt",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:39.960Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083518488_durztlt",
+      "questionId": "retirar_38",
+      "question": "Tu amigo empezó a tener ataques de tos muy fuertes en las mañanas y a sacar flemas grises. Él jura que es asma. ¿Qué dice la ciencia si fuma marihuana a diario?",
+      "selectedOption": "C",
+      "selectedText": "Que el humo constante de la marihuana causa inflamación crónica en los bronquios, produciendo tos y flemas igual que el tabaco",
+      "correctOption": "C",
+      "correctText": "Que el humo constante de la marihuana causa inflamación crónica en los bronquios, produciendo tos y flemas igual que el tabaco",
+      "result": "CORRECTA",
+      "feedback": "NIDA aclara que fumar marihuana frecuentemente produce problemas respiratorios crónicos, bronquitis y un mayor riesgo de infecciones pulmonares",
+      "responseTimeSec": 1.5,
+      "rachaBefore": 3,
+      "rachaAfter": 4,
+      "creditsAwarded": 80,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083519960_v1z14gc",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:39.960Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 80,
+      "newBalance": 200,
+      "racha": 4
+    }
+  },
+  {
+    "eventId": "evt_1792083521867_wivnmj3",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:41.867Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_26",
+      "question": "Un joven se gasta todo el dinero de su mesada y de su trabajo de fin de semana en comprar \"cartuchos\" para vapear marihuana. ¿Esto es señal de qué?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 4
+    }
+  },
+  {
+    "eventId": "evt_1792083523331_3krc9tq",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:43.331Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083521867_wivnmj3",
+      "questionId": "retirar_26",
+      "question": "Un joven se gasta todo el dinero de su mesada y de su trabajo de fin de semana en comprar \"cartuchos\" para vapear marihuana. ¿Esto es señal de qué?",
+      "selectedOption": "B",
+      "selectedText": "Es un criterio clínico de \"Trastorno por Consumo\" (adicción), ya que invierte muchos recursos en conseguir la droga",
+      "correctOption": "B",
+      "correctText": "Es un criterio clínico de \"Trastorno por Consumo\" (adicción), ya que invierte muchos recursos en conseguir la droga",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA indica que gastar dinero excesivo e invertir mucho tiempo en conseguir y consumir la sustancia es una señal clara de adicción",
+      "responseTimeSec": 1.5,
+      "rachaBefore": 4,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083523331_ry8ny6u",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:43.331Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 300,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083530182_lae8aah",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:50.182Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_45",
+      "question": "En términos de salud mental comprobada, ¿cómo actúa la marihuana en alguien diagnosticado con ansiedad social severa?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083530356_49lkf4n",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:50.356Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083530182_lae8aah",
+      "questionId": "retirar_45",
+      "question": "En términos de salud mental comprobada, ¿cómo actúa la marihuana en alguien diagnosticado con ansiedad social severa?",
+      "selectedOption": "D",
+      "selectedText": "No tiene ninguna relación con las emociones o la conducta",
+      "correctOption": "B",
+      "correctText": "Puede ofrecer un alivio muy breve en el momento, pero a largo plazo incrementa la ansiedad basal y la dependencia emocional a la sustancia",
+      "result": "INCORRECTA",
+      "feedback": "El sistema endocannabinoide está profundamente implicado en la regulación emocional",
+      "responseTimeSec": 0.2,
+      "rachaBefore": 5,
+      "rachaAfter": 0,
+      "creditsAwarded": 0,
+      "status": "INCORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083532964_1wsux3t",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:52.964Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_34",
+      "question": "\"Mis papás fuman marihuana, así que no tiene nada de malo que yo lo haga a mis 16 años\". ¿Cuál es el error en ese pensamiento?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792083535172_ba47z2e",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:55.172Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083532964_1wsux3t",
+      "questionId": "retirar_34",
+      "question": "\"Mis papás fuman marihuana, así que no tiene nada de malo que yo lo haga a mis 16 años\". ¿Cuál es el error en ese pensamiento?",
+      "selectedOption": "B",
+      "selectedText": "Que el cerebro de sus papás ya terminó de formarse, pero el de un joven de 16 años puede sufrir daños cognitivos permanentes",
+      "correctOption": "B",
+      "correctText": "Que el cerebro de sus papás ya terminó de formarse, pero el de un joven de 16 años puede sufrir daños cognitivos permanentes",
+      "result": "CORRECTA",
+      "feedback": "El CDC es enfático: el impacto en la estructura del cerebro (materia blanca y conexiones neuronales) es irreversible si se interrumpe el desarrollo adolescente, a diferencia de un cerebro maduro",
+      "responseTimeSec": 2.2,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083535172_0aydqau",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:58:55.172Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 320,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792083554093_ws893z4",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:14.093Z",
+    "game": "CARTAS",
+    "data": {
+      "betAmount": 100,
+      "newBalance": 220
+    }
+  },
+  {
+    "eventId": "evt_1792083558453_dbhbhzw",
+    "eventType": "BLACKJACK_SETTLED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:18.453Z",
+    "game": "CARTAS",
+    "data": {
+      "result": "bust",
+      "bet": 100,
+      "playerScore": 26,
+      "dealerScore": 20,
+      "netProfit": -100
+    }
+  },
+  {
+    "eventId": "evt_1792083559963_bzrqd2g",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:19.963Z",
+    "game": "CARTAS",
+    "data": {
+      "betAmount": 100,
+      "newBalance": 120
+    }
+  },
+  {
+    "eventId": "evt_1792083561305_1apjt08",
+    "eventType": "BLACKJACK_SETTLED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:21.305Z",
+    "game": "CARTAS",
+    "data": {
+      "result": "bust",
+      "bet": 100,
+      "playerScore": 23,
+      "dealerScore": 7,
+      "netProfit": -100
+    }
+  },
+  {
+    "eventId": "evt_1792083562778_8wrgxey",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:22.778Z",
+    "game": "CARTAS",
+    "data": {
+      "betAmount": 100,
+      "newBalance": 20
+    }
+  },
+  {
+    "eventId": "evt_1792083564374_nftcut5",
+    "eventType": "BLACKJACK_SETTLED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:24.374Z",
+    "game": "CARTAS",
+    "data": {
+      "result": "bust",
+      "bet": 100,
+      "playerScore": 25,
+      "dealerScore": 12,
+      "netProfit": -100
+    }
+  },
+  {
+    "eventId": "evt_1792083575139_3hlb2x1",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:35.140Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_31",
+      "question": "¿Cuál es el mayor peligro de usar gomitas de marihuana si hay niños pequeños en casa?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792083576868_lmry68e",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:36.868Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083575139_3hlb2x1",
+      "questionId": "retirar_31",
+      "question": "¿Cuál es el mayor peligro de usar gomitas de marihuana si hay niños pequeños en casa?",
+      "selectedOption": "B",
+      "selectedText": "Que los niños las confundan con dulces normales y sufran intoxicaciones graves que requieran ir a emergencias",
+      "correctOption": "B",
+      "correctText": "Que los niños las confundan con dulces normales y sufran intoxicaciones graves que requieran ir a emergencias",
+      "result": "CORRECTA",
+      "feedback": "NIDA advierte que los empaques llamativos engañan a los niños pequeños, y las dosis altas de THC en un cuerpo tan pequeño pueden causar coma o dificultad para respirar",
+      "responseTimeSec": 1.7,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083576868_045j517",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:36.868Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 40,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792083578368_3wpapby",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:38.369Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_17",
+      "question": "Si un joven es diagnosticado con un Trastorno por Consumo de Cannabis \"Severo\", ¿qué significa médicamente?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 1
+    }
+  },
+  {
+    "eventId": "evt_1792083579592_wzzvfbw",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:39.592Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083578368_3wpapby",
+      "questionId": "retirar_17",
+      "question": "Si un joven es diagnosticado con un Trastorno por Consumo de Cannabis \"Severo\", ¿qué significa médicamente?",
+      "selectedOption": "B",
+      "selectedText": "Que cumple con 6 o más criterios clínicos de adicción y su vida está muy afectada",
+      "correctOption": "B",
+      "correctText": "Que cumple con 6 o más criterios clínicos de adicción y su vida está muy afectada",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA (2024) clasifica la severidad basándose en la cantidad de síntomas (como tolerancia, abstinencia, problemas sociales). 6+ es severo",
+      "responseTimeSec": 1.2,
+      "rachaBefore": 1,
+      "rachaAfter": 2,
+      "creditsAwarded": 40,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083579592_h8h8apy",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:39.592Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 40,
+      "newBalance": 80,
+      "racha": 2
+    }
+  },
+  {
+    "eventId": "evt_1792083580807_oshapcc",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:40.807Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_2",
+      "question": "Si un amigo que consume marihuana muy seguido comienza a vomitar incontrolablemente cada semana y solo se alivia bañándose con agua muy caliente, ¿qué le podría estar pasando?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 2
+    }
+  },
+  {
+    "eventId": "evt_1792083587346_5m324rn",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:47.346Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083580807_oshapcc",
+      "questionId": "retirar_2",
+      "question": "Si un amigo que consume marihuana muy seguido comienza a vomitar incontrolablemente cada semana y solo se alivia bañándose con agua muy caliente, ¿qué le podría estar pasando?",
+      "selectedOption": "B",
+      "selectedText": "Tiene el Síndrome de Hiperemesis Cannabinoide",
+      "correctOption": "B",
+      "correctText": "Tiene el Síndrome de Hiperemesis Cannabinoide",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) explica que el uso constante de altas dosis puede causar este síndrome caracterizado por vómitos severos",
+      "responseTimeSec": 6.5,
+      "rachaBefore": 2,
+      "rachaAfter": 3,
+      "creditsAwarded": 60,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083587346_0mm1l5r",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:47.346Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 60,
+      "newBalance": 140,
+      "racha": 3
+    }
+  },
+  {
+    "eventId": "evt_1792083589611_lqsbzdy",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:49.611Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_10",
+      "question": "¿Por qué la marihuana de uso médico (\"medicinal\") NO se receta a adolescentes para diversión o estrés común?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 3
+    }
+  },
+  {
+    "eventId": "evt_1792083591654_cfngdaa",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:51.654Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083589611_lqsbzdy",
+      "questionId": "retirar_10",
+      "question": "¿Por qué la marihuana de uso médico (\"medicinal\") NO se receta a adolescentes para diversión o estrés común?",
+      "selectedOption": "B",
+      "selectedText": "Porque el cerebro adolescente aún está en formación y el THC puede dañarlo permanentemente",
+      "correctOption": "B",
+      "correctText": "Porque el cerebro adolescente aún está en formación y el THC puede dañarlo permanentemente",
+      "result": "CORRECTA",
+      "feedback": "El CDC (2024) reitera que el THC interfiere con el desarrollo de conexiones cerebrales vitales antes de los 25 años",
+      "responseTimeSec": 2,
+      "rachaBefore": 3,
+      "rachaAfter": 4,
+      "creditsAwarded": 80,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083591654_x5cmzot",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:51.654Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 80,
+      "newBalance": 220,
+      "racha": 4
+    }
+  },
+  {
+    "eventId": "evt_1792083593043_5t6zl0q",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:53.043Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_23",
+      "question": "Un compañero intenta dejar la marihuana, pero a los dos días anda muy irritable, agresivo, y no puede dormir. ¿Por qué le pasa esto?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 4
+    }
+  },
+  {
+    "eventId": "evt_1792083594320_we0issr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:54.320Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083593043_5t6zl0q",
+      "questionId": "retirar_23",
+      "question": "Un compañero intenta dejar la marihuana, pero a los dos días anda muy irritable, agresivo, y no puede dormir. ¿Por qué le pasa esto?",
+      "selectedOption": "B",
+      "selectedText": "Está experimentando el \"Síndrome de Abstinencia\", porque su cerebro exige la droga",
+      "correctOption": "B",
+      "correctText": "Está experimentando el \"Síndrome de Abstinencia\", porque su cerebro exige la droga",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA señala que el enojo, el insomnio y la ansiedad son síntomas físicos reales cuando una persona adicta intenta dejar la sustancia",
+      "responseTimeSec": 1.3,
+      "rachaBefore": 4,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083594320_q8q8s3b",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:54.320Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 320,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083595596_a25o11a",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:55.596Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_43",
+      "question": "¿Qué síntoma clínico clave diferencia un uso recreativo ocasional de un \"Trastorno por Consumo de Cannabis\" leve o moderado?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083596625_vrtfldr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:56.625Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083595596_a25o11a",
+      "questionId": "retirar_43",
+      "question": "¿Qué síntoma clínico clave diferencia un uso recreativo ocasional de un \"Trastorno por Consumo de Cannabis\" leve o moderado?",
+      "selectedOption": "B",
+      "selectedText": "Continuar consumiendo a pesar de que el uso cause problemas sociales, escolares o familiares comprobados",
+      "correctOption": "B",
+      "correctText": "Continuar consumiendo a pesar de que el uso cause problemas sociales, escolares o familiares comprobados",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA establece que el impacto negativo persistente en las esferas de la vida (y la incapacidad de detenerse) define el diagnóstico de adicción",
+      "responseTimeSec": 1,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083596625_va7ld60",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:56.625Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 420,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083598033_51dubse",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T16:59:58.033Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_14",
+      "question": "\"Intenté dejar de fumar el fin de semana, pero me puse de tan mal humor que volví a fumar el lunes\". Esto es un ejemplo de:",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083601432_imugfrr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:01.432Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083598033_51dubse",
+      "questionId": "retirar_14",
+      "question": "\"Intenté dejar de fumar el fin de semana, pero me puse de tan mal humor que volví a fumar el lunes\". Esto es un ejemplo de:",
+      "selectedOption": "B",
+      "selectedText": "El ciclo de abstinencia y recaída de una adicción",
+      "correctOption": "B",
+      "correctText": "El ciclo de abstinencia y recaída de una adicción",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) explica que el malestar de la abstinencia es la causa principal por la que los jóvenes recaen",
+      "responseTimeSec": 3.4,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083601432_eshd8xi",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:01.432Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 520,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083602917_81qi404",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:02.917Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_6",
+      "question": "Muchos jóvenes dicen: \"Yo uso marihuana para calmar mi ansiedad escolar\". Según la ciencia, ¿qué ocurre realmente a largo plazo?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083604135_xxbpglm",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:04.135Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083602917_81qi404",
+      "questionId": "retirar_6",
+      "question": "Muchos jóvenes dicen: \"Yo uso marihuana para calmar mi ansiedad escolar\". Según la ciencia, ¿qué ocurre realmente a largo plazo?",
+      "selectedOption": "C",
+      "selectedText": "Al inicio relaja, pero a la larga empeora los síntomas de ansiedad y depresión",
+      "correctOption": "C",
+      "correctText": "Al inicio relaja, pero a la larga empeora los síntomas de ansiedad y depresión",
+      "result": "CORRECTA",
+      "feedback": "El CDC (2024) señala que el uso constante está ligado a un empeoramiento de los problemas de salud mental a largo plazo",
+      "responseTimeSec": 1.2,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083604135_vt1vjwx",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:04.135Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 620,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083605521_zl5mfuz",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:05.521Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_45",
+      "question": "En términos de salud mental comprobada, ¿cómo actúa la marihuana en alguien diagnosticado con ansiedad social severa?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083606569_bru3dcn",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:06.569Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083605521_zl5mfuz",
+      "questionId": "retirar_45",
+      "question": "En términos de salud mental comprobada, ¿cómo actúa la marihuana en alguien diagnosticado con ansiedad social severa?",
+      "selectedOption": "B",
+      "selectedText": "Puede ofrecer un alivio muy breve en el momento, pero a largo plazo incrementa la ansiedad basal y la dependencia emocional a la sustancia",
+      "correctOption": "B",
+      "correctText": "Puede ofrecer un alivio muy breve en el momento, pero a largo plazo incrementa la ansiedad basal y la dependencia emocional a la sustancia",
+      "result": "CORRECTA",
+      "feedback": "El CDC documenta el \"efecto rebote\" y el empeoramiento crónico de trastornos afectivos al usar cannabis como automedicación",
+      "responseTimeSec": 1,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083606569_123qqyw",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:06.569Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 720,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083609725_9durmtr",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:09.725Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_28",
+      "question": "Si alguien te presiona en una fiesta diciéndote: \"Ándale, pruébala, la marihuana cura el cáncer, es medicina\", ¿cuál es la mejor respuesta basada en ciencia?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083610785_tyeeqzf",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:10.785Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083609725_9durmtr",
+      "questionId": "retirar_28",
+      "question": "Si alguien te presiona en una fiesta diciéndote: \"Ándale, pruébala, la marihuana cura el cáncer, es medicina\", ¿cuál es la mejor respuesta basada en ciencia?",
+      "selectedOption": "B",
+      "selectedText": "\"La ciencia dice que el THC puede aliviar náuseas en algunos pacientes, pero NO cura el cáncer, y a mi edad daña mi cerebro\"",
+      "correctOption": "B",
+      "correctText": "\"La ciencia dice que el THC puede aliviar náuseas en algunos pacientes, pero NO cura el cáncer, y a mi edad daña mi cerebro\"",
+      "result": "CORRECTA",
+      "feedback": "NIDA aclara que, aunque algunos medicamentos con cannabinoides alivian síntomas específicos (como náuseas por quimioterapia), la marihuana fumada no es una cura para ninguna enfermedad y daña a los menores",
+      "responseTimeSec": 1.1,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083610785_z3v11ct",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:10.785Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 820,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083612579_u45c1lr",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:12.579Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_50",
+      "question": "¿A nivel estructural, cómo afecta el cannabis al \"Hipocampo\" del cerebro en desarrollo de un adolescente?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083613643_0pkoaom",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:13.643Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083612579_u45c1lr",
+      "questionId": "retirar_50",
+      "question": "¿A nivel estructural, cómo afecta el cannabis al \"Hipocampo\" del cerebro en desarrollo de un adolescente?",
+      "selectedOption": "C",
+      "selectedText": "Reduce el volumen celular y altera las neuronas encargadas de procesar y retener información nueva",
+      "correctOption": "C",
+      "correctText": "Reduce el volumen celular y altera las neuronas encargadas de procesar y retener información nueva",
+      "result": "CORRECTA",
+      "feedback": "NIDA asocia el uso temprano y constante con anomalías morfológicas en el hipocampo, resultando en un menor rendimiento académico y retención",
+      "responseTimeSec": 1.1,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083613643_n4rshk9",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:13.643Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 920,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083614930_g1z88pg",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:14.930Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_5",
+      "question": "¿Qué le pasa al cuerpo y mente de una persona adicta a la marihuana si intenta dejarla de golpe?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083617330_kyyu2ez",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:17.330Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083614930_g1z88pg",
+      "questionId": "retirar_5",
+      "question": "¿Qué le pasa al cuerpo y mente de una persona adicta a la marihuana si intenta dejarla de golpe?",
+      "selectedOption": "B",
+      "selectedText": "Experimenta síntomas de abstinencia como enojo, insomnio y falta de hambre",
+      "correctOption": "B",
+      "correctText": "Experimenta síntomas de abstinencia como enojo, insomnio y falta de hambre",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA (2024) detalla que la abstinencia incluye irritabilidad, ansiedad y problemas de sueño",
+      "responseTimeSec": 2.4,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083617330_z7qghf6",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:17.330Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 1020,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083618624_wkwtg0g",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:18.624Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_44",
+      "question": "¿Por qué la \"materia blanca\" del cerebro es especialmente vulnerable al THC durante la adolescencia?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083619804_2ryt2nh",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:19.804Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792083618624_wkwtg0g",
+      "questionId": "retirar_44",
+      "question": "¿Por qué la \"materia blanca\" del cerebro es especialmente vulnerable al THC durante la adolescencia?",
+      "selectedOption": "B",
+      "selectedText": "Porque en la adolescencia se están creando las vías de comunicación rápidas (mielinización) que el THC interrumpe de forma permanente",
+      "correctOption": "B",
+      "correctText": "Porque en la adolescencia se están creando las vías de comunicación rápidas (mielinización) que el THC interrumpe de forma permanente",
+      "result": "CORRECTA",
+      "feedback": "El CDC advierte que el desarrollo estructural y la eficiencia de las conexiones neuronales se ven alteradas severamente",
+      "responseTimeSec": 1.2,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083619804_gs43u47",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:19.804Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 1120,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792083631211_n5e88o6",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:31.211Z",
+    "game": "PLINKO",
+    "data": {
+      "betAmount": 1120,
+      "newBalance": 0
+    }
+  },
+  {
+    "eventId": "evt_1792083632011_lfuq7bb",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:32.011Z",
+    "game": "PLINKO",
+    "data": {
+      "questionId": "pregunta_054",
+      "question": "¿Qué es el \"Cannabidiol\" o CBD?",
+      "step": 1,
+      "status": "PENDIENTE"
+    }
+  },
+  {
+    "eventId": "evt_1792083635394_hssx9f7",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:35.394Z",
+    "game": "PLINKO",
+    "data": {
+      "questionEventId": "evt_1792083632011_lfuq7bb",
+      "questionId": "pregunta_054",
+      "question": "¿Qué es el \"Cannabidiol\" o CBD?",
+      "step": 1,
+      "selectedOption": "B",
+      "selectedText": "Un compuesto de la planta de cannabis que NO produce el efecto de estar \"drogado\" o intoxicado",
+      "correctOption": "B",
+      "correctText": "Un compuesto de la planta de cannabis que NO produce el efecto de estar \"drogado\" o intoxicado",
+      "result": "CORRECTA",
+      "feedback": "NIDA diferencia clínicamente al CBD (no intoxicante) del THC (psicoactivo responsable del \"subidón\").",
+      "responseTimeSec": 3.4,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083637609_2n3nzff",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:37.609Z",
+    "game": "PLINKO",
+    "data": {
+      "questionId": "pregunta_093",
+      "question": "Si un joven consume marihuana de forma habitual en la prepa, ¿qué riesgo académico enfrenta?",
+      "step": 2,
+      "status": "PENDIENTE"
+    }
+  },
+  {
+    "eventId": "evt_1792083640471_hen3sls",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:40.471Z",
+    "game": "PLINKO",
+    "data": {
+      "questionEventId": "evt_1792083637609_2n3nzff",
+      "questionId": "pregunta_093",
+      "question": "Si un joven consume marihuana de forma habitual en la prepa, ¿qué riesgo académico enfrenta?",
+      "step": 2,
+      "selectedOption": "B",
+      "selectedText": "Obtener peores calificaciones, faltar más a clases y tener mayores probabilidades de abandonar la escuela",
+      "correctOption": "B",
+      "correctText": "Obtener peores calificaciones, faltar más a clases y tener mayores probabilidades de abandonar la escuela",
+      "result": "CORRECTA",
+      "feedback": "Correcta. El CDC vincula el deterioro de la memoria de trabajo y la falta de motivación con el fracaso académico constante.",
+      "responseTimeSec": 2.9,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083642005_jymmwgn",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:42.005Z",
+    "game": "PLINKO",
+    "data": {
+      "questionId": "pregunta_089",
+      "question": "Si alguien tiene antecedentes familiares de esquizofrenia, ¿cómo le afecta el uso temprano de cannabis?",
+      "step": 3,
+      "status": "PENDIENTE"
+    }
+  },
+  {
+    "eventId": "evt_1792083643616_50lt2of",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:43.616Z",
+    "game": "PLINKO",
+    "data": {
+      "questionEventId": "evt_1792083642005_jymmwgn",
+      "questionId": "pregunta_089",
+      "question": "Si alguien tiene antecedentes familiares de esquizofrenia, ¿cómo le afecta el uso temprano de cannabis?",
+      "step": 3,
+      "selectedOption": "B",
+      "selectedText": "Actúa como desencadenante, aumentando drásticamente el riesgo de episodios psicóticos o esquizofrenia prematura",
+      "correctOption": "B",
+      "correctText": "Actúa como desencadenante, aumentando drásticamente el riesgo de episodios psicóticos o esquizofrenia prematura",
+      "result": "CORRECTA",
+      "feedback": "Correcta. El CDC asocia el consumo temprano y de altas dosis de THC con un marcado aumento del riesgo de psicosis aguda en poblaciones genéticamente vulnerables.",
+      "responseTimeSec": 1.6,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083645203_qwkd045",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:45.203Z",
+    "game": "PLINKO",
+    "data": {
+      "questionId": "pregunta_031",
+      "question": "¿Qué es más perjudicial para los pulmones: retener el humo de la marihuana mucho tiempo o exhalarlo rápido?",
+      "step": 4,
+      "status": "PENDIENTE"
+    }
+  },
+  {
+    "eventId": "evt_1792083646760_q1zarda",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:46.760Z",
+    "game": "PLINKO",
+    "data": {
+      "questionEventId": "evt_1792083645203_qwkd045",
+      "questionId": "pregunta_031",
+      "question": "¿Qué es más perjudicial para los pulmones: retener el humo de la marihuana mucho tiempo o exhalarlo rápido?",
+      "step": 4,
+      "selectedOption": "A",
+      "selectedText": "Retenerlo mucho tiempo, porque deposita más alquitrán y toxinas en los pulmones",
+      "correctOption": "A",
+      "correctText": "Retenerlo mucho tiempo, porque deposita más alquitrán y toxinas en los pulmones",
+      "result": "CORRECTA",
+      "feedback": "Según NIDA, el hábito de inhalar profundamente y retener el humo expone a los pulmones a una mayor cantidad de químicos cancerígenos y alquitrán que un cigarro común",
+      "responseTimeSec": 1.6,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083648262_wk05wq1",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:48.262Z",
+    "game": "PLINKO",
+    "data": {
+      "questionId": "pregunta_068",
+      "question": "¿Cómo altera el THC las decisiones sociales y la percepción de riesgo en los adolescentes durante una fiesta?",
+      "step": 5,
+      "status": "PENDIENTE"
+    }
+  },
+  {
+    "eventId": "evt_1792083649953_zr4a5dr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:49.953Z",
+    "game": "PLINKO",
+    "data": {
+      "questionEventId": "evt_1792083648262_wk05wq1",
+      "questionId": "pregunta_068",
+      "question": "¿Cómo altera el THC las decisiones sociales y la percepción de riesgo en los adolescentes durante una fiesta?",
+      "step": 5,
+      "selectedOption": "B",
+      "selectedText": "Reduce las inhibiciones y el juicio, llevando a conductas peligrosas como aceptar subirse al auto de alguien ebrio",
+      "correctOption": "B",
+      "correctText": "Reduce las inhibiciones y el juicio, llevando a conductas peligrosas como aceptar subirse al auto de alguien ebrio",
+      "result": "CORRECTA",
+      "feedback": "El CDC equipara este efecto de pérdida de control al que produce el alcohol, propiciando decisiones sexuales no planeadas o riesgos físicos.",
+      "responseTimeSec": 1.7,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083651845_dgo24ix",
+    "eventType": "PLINKO_SETTLED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:00:51.845Z",
+    "game": "PLINKO",
+    "data": {
+      "initialBet": 1120,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "finalMultiplier": 10,
+      "grossPrize": 11200,
+      "penalties": 0,
+      "netResult": 10080,
+      "finalBalance": 11200,
+      "isRecovery": false
+    }
+  },
+  {
+    "eventId": "evt_1792083685187_yzc2gxp",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:01:25.187Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 11100
+    }
+  },
+  {
+    "eventId": "evt_1792083690192_hssyahk",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:01:30.192Z",
+    "game": "RULETA",
+    "data": {
+      "result": "WIN",
+      "winnings": 200,
+      "accumulated": 200,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792083691662_wrxm8q2",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:01:31.662Z",
+    "game": "RULETA",
+    "data": {
+      "questionId": "retirar_18",
+      "question": "Un riesgo oculto de la marihuana actual (ya sea en flor o vapeadores) comprada en las calles o redes sociales es:",
+      "status": "PENDIENTE",
+      "accumulatedAmount": 200
+    }
+  },
+  {
+    "eventId": "evt_1792083695294_313g5rh",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:01:35.294Z",
+    "game": "RULETA",
+    "data": {
+      "questionEventId": "evt_1792083691662_wrxm8q2",
+      "questionId": "retirar_18",
+      "question": "Un riesgo oculto de la marihuana actual (ya sea en flor o vapeadores) comprada en las calles o redes sociales es:",
+      "selectedOption": "C",
+      "selectedText": "Que esté mezclada sin saberlo con drogas letales como el fentanilo",
+      "correctOption": "C",
+      "correctText": "Que esté mezclada sin saberlo con drogas letales como el fentanilo",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) alerta sobre el creciente peligro de contaminación cruzada en drogas ilícitas, causando sobredosis accidentales",
+      "responseTimeSec": 3.6,
+      "creditsAwarded": 0,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792083697319_o7osr6w",
+    "eventType": "WITHDRAW_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:01:37.319Z",
+    "game": "RULETA",
+    "data": {
+      "amount": 200,
+      "newBalance": 11300
+    }
+  },
+  {
+    "eventId": "evt_1792084373969_2ka44c5",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:12:53.969Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 11200
+    }
+  },
+  {
+    "eventId": "evt_1792084378971_5wkowzk",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:12:58.971Z",
+    "game": "RULETA",
+    "data": {
+      "result": "WIN",
+      "winnings": 200,
+      "accumulated": 200,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792084380406_t4589xy",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:13:00.406Z",
+    "game": "RULETA",
+    "data": {
+      "questionId": "retirar_47",
+      "question": "¿Qué es el metabolito \"11-hidroxi-THC\" y por qué representa un riesgo elevado en urgencias médicas?",
+      "status": "PENDIENTE",
+      "accumulatedAmount": 200
+    }
+  },
+  {
+    "eventId": "evt_1792084381484_9t5ggo5",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:13:01.484Z",
+    "game": "RULETA",
+    "data": {
+      "questionEventId": "evt_1792084380406_t4589xy",
+      "questionId": "retirar_47",
+      "question": "¿Qué es el metabolito \"11-hidroxi-THC\" y por qué representa un riesgo elevado en urgencias médicas?",
+      "selectedOption": "B",
+      "selectedText": "Es el metabolito hiperpotente que produce el hígado al ingerir marihuana comestible, causando efectos mucho más fuertes e impredecibles que al fumarla",
+      "correctOption": "B",
+      "correctText": "Es el metabolito hiperpotente que produce el hígado al ingerir marihuana comestible, causando efectos mucho más fuertes e impredecibles que al fumarla",
+      "result": "CORRECTA",
+      "feedback": "NIDA explica la farmacocinética de primer paso hepático en los comestibles, siendo el principal culpable de intoxaciones agudas en jóvenes",
+      "responseTimeSec": 1.1,
+      "creditsAwarded": 0,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792084388241_lpvryc6",
+    "eventType": "WITHDRAW_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:13:08.241Z",
+    "game": "RULETA",
+    "data": {
+      "amount": 200,
+      "newBalance": 11400
+    }
+  },
+  {
+    "eventId": "evt_1792084885937_bazy039",
+    "eventType": "SESSION_START",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:21:25.937Z",
+    "game": "SISTEMA",
+    "data": {
+      "initialCredits": 0,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "eventId": "evt_1792085171419_nrm61dl",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:11.419Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_21",
+      "question": "Un amigo siempre fuma un \"porro\" los viernes. Ahora dice que necesita fumar 3 para sentir lo mismo. ¿Qué le está pasando?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792085173682_i28oafl",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:13.682Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792085171419_nrm61dl",
+      "questionId": "retirar_21",
+      "question": "Un amigo siempre fuma un \"porro\" los viernes. Ahora dice que necesita fumar 3 para sentir lo mismo. ¿Qué le está pasando?",
+      "selectedOption": "B",
+      "selectedText": "Desarrolló \"Tolerancia\", que es una de las primeras señales de que su cuerpo se está volviendo adicto",
+      "correctOption": "B",
+      "correctText": "Desarrolló \"Tolerancia\", que es una de las primeras señales de que su cuerpo se está volviendo adicto",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA explica que la tolerancia es cuando el cerebro se acostumbra a la droga y pide más cantidad para lograr el mismo efecto inicial",
+      "responseTimeSec": 2.3,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085173682_1avr8m6",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:13.682Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 20,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792085175692_z96dqn5",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:15.692Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_16",
+      "question": "¿Qué le dirías, basado en ciencia, a un compañero que asegura que \"la marihuana no hace daño porque no es una droga química como las pastillas\"?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 1
+    }
+  },
+  {
+    "eventId": "evt_1792085176997_zswjplr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:16.998Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792085175692_z96dqn5",
+      "questionId": "retirar_16",
+      "question": "¿Qué le dirías, basado en ciencia, a un compañero que asegura que \"la marihuana no hace daño porque no es una droga química como las pastillas\"?",
+      "selectedOption": "C",
+      "selectedText": "Que el THC altera químicamente las neuronas y el desarrollo del cerebro, sin importar su origen natural",
+      "correctOption": "C",
+      "correctText": "Que el THC altera químicamente las neuronas y el desarrollo del cerebro, sin importar su origen natural",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) aclara que el THC imita químicos cerebrales (endocannabinoides), alterando el funcionamiento normal de las neuronas",
+      "responseTimeSec": 1.3,
+      "rachaBefore": 1,
+      "rachaAfter": 2,
+      "creditsAwarded": 40,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085176998_9ovjqnp",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:16.998Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 40,
+      "newBalance": 60,
+      "racha": 2
+    }
+  },
+  {
+    "eventId": "evt_1792085178565_j6dgaah",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:18.565Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_34",
+      "question": "\"Mis papás fuman marihuana, así que no tiene nada de malo que yo lo haga a mis 16 años\". ¿Cuál es el error en ese pensamiento?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 2
+    }
+  },
+  {
+    "eventId": "evt_1792085179971_m5phufv",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:19.971Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792085178565_j6dgaah",
+      "questionId": "retirar_34",
+      "question": "\"Mis papás fuman marihuana, así que no tiene nada de malo que yo lo haga a mis 16 años\". ¿Cuál es el error en ese pensamiento?",
+      "selectedOption": "B",
+      "selectedText": "Que el cerebro de sus papás ya terminó de formarse, pero el de un joven de 16 años puede sufrir daños cognitivos permanentes",
+      "correctOption": "B",
+      "correctText": "Que el cerebro de sus papás ya terminó de formarse, pero el de un joven de 16 años puede sufrir daños cognitivos permanentes",
+      "result": "CORRECTA",
+      "feedback": "El CDC es enfático: el impacto en la estructura del cerebro (materia blanca y conexiones neuronales) es irreversible si se interrumpe el desarrollo adolescente, a diferencia de un cerebro maduro",
+      "responseTimeSec": 1.4,
+      "rachaBefore": 2,
+      "rachaAfter": 3,
+      "creditsAwarded": 60,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085179971_bds5iu7",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:19.971Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 60,
+      "newBalance": 120,
+      "racha": 3
+    }
+  },
+  {
+    "eventId": "evt_1792085181867_uifb7hf",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:21.867Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_39",
+      "question": "¿Por qué es muy peligroso el mercado ilegal de marihuana, de acuerdo a recientes alertas médicas?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 3
+    }
+  },
+  {
+    "eventId": "evt_1792085183008_aun9zhr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:23.008Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792085181867_uifb7hf",
+      "questionId": "retirar_39",
+      "question": "¿Por qué es muy peligroso el mercado ilegal de marihuana, de acuerdo a recientes alertas médicas?",
+      "selectedOption": "B",
+      "selectedText": "Porque muchas veces las drogas vienen contaminadas con Fentanilo, un opioide mortal capaz de causar una sobredosis con solo tocarlo o probarlo",
+      "correctOption": "B",
+      "correctText": "Porque muchas veces las drogas vienen contaminadas con Fentanilo, un opioide mortal capaz de causar una sobredosis con solo tocarlo o probarlo",
+      "result": "CORRECTA",
+      "feedback": "NIDA advierte repetidamente que muchas sustancias en la calle (incluidos vapes o flores falsificadas) son mezcladas con fentanilo para hacerlas más adictivas, causando miles de muertes accidentales",
+      "responseTimeSec": 1.1,
+      "rachaBefore": 3,
+      "rachaAfter": 4,
+      "creditsAwarded": 80,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085183008_e9qv0r0",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:23.008Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 80,
+      "newBalance": 200,
+      "racha": 4
+    }
+  },
+  {
+    "eventId": "evt_1792085184720_sv04933",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:24.720Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_7",
+      "question": "¿Cuánto tiempo puede quedarse rastreado el THC (químico de la marihuana) en tu cuerpo después de consumirla?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 4
+    }
+  },
+  {
+    "eventId": "evt_1792085185793_lk5tgzk",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:25.793Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792085184720_sv04933",
+      "questionId": "retirar_7",
+      "question": "¿Cuánto tiempo puede quedarse rastreado el THC (químico de la marihuana) en tu cuerpo después de consumirla?",
+      "selectedOption": "C",
+      "selectedText": "Se almacena en la grasa y puede detectarse semanas después",
+      "correctOption": "C",
+      "correctText": "Se almacena en la grasa y puede detectarse semanas después",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) explica que el THC es liposoluble y permanece en el cuerpo por varios días o semanas",
+      "responseTimeSec": 1.1,
+      "rachaBefore": 4,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085185794_cv1swmj",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:25.794Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 300,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792085187383_6nxcb61",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:27.383Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_47",
+      "question": "¿Qué es el metabolito \"11-hidroxi-THC\" y por qué representa un riesgo elevado en urgencias médicas?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792085189471_0j88hg8",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:29.471Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792085187383_6nxcb61",
+      "questionId": "retirar_47",
+      "question": "¿Qué es el metabolito \"11-hidroxi-THC\" y por qué representa un riesgo elevado en urgencias médicas?",
+      "selectedOption": "B",
+      "selectedText": "Es el metabolito hiperpotente que produce el hígado al ingerir marihuana comestible, causando efectos mucho más fuertes e impredecibles que al fumarla",
+      "correctOption": "B",
+      "correctText": "Es el metabolito hiperpotente que produce el hígado al ingerir marihuana comestible, causando efectos mucho más fuertes e impredecibles que al fumarla",
+      "result": "CORRECTA",
+      "feedback": "NIDA explica la farmacocinética de primer paso hepático en los comestibles, siendo el principal culpable de intoxaciones agudas en jóvenes",
+      "responseTimeSec": 2.1,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085189471_s2rgwpz",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:29.471Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 400,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792085191287_eup57w0",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:31.287Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_23",
+      "question": "Un compañero intenta dejar la marihuana, pero a los dos días anda muy irritable, agresivo, y no puede dormir. ¿Por qué le pasa esto?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792085193036_rl3bmjk",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:33.036Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792085191287_eup57w0",
+      "questionId": "retirar_23",
+      "question": "Un compañero intenta dejar la marihuana, pero a los dos días anda muy irritable, agresivo, y no puede dormir. ¿Por qué le pasa esto?",
+      "selectedOption": "B",
+      "selectedText": "Está experimentando el \"Síndrome de Abstinencia\", porque su cerebro exige la droga",
+      "correctOption": "B",
+      "correctText": "Está experimentando el \"Síndrome de Abstinencia\", porque su cerebro exige la droga",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA señala que el enojo, el insomnio y la ansiedad son síntomas físicos reales cuando una persona adicta intenta dejar la sustancia",
+      "responseTimeSec": 1.7,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085193037_o4s61nm",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:33.037Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 500,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792085199871_w5a277m",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:39.872Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 400
+    }
+  },
+  {
+    "eventId": "evt_1792085204873_4x9vsz6",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:44.873Z",
+    "game": "RULETA",
+    "data": {
+      "result": "LOSE",
+      "loss": 100,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792085205449_ygaxex5",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:45.449Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 300
+    }
+  },
+  {
+    "eventId": "evt_1792085210450_suqs3ad",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:50.450Z",
+    "game": "RULETA",
+    "data": {
+      "result": "WIN",
+      "winnings": 200,
+      "accumulated": 200,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792085211072_0b4kokw",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:51.072Z",
+    "game": "RULETA",
+    "data": {
+      "questionId": "retirar_24",
+      "question": "Se dice que la marihuana es una \"droga de entrada\" (gateway drug). ¿Qué significa esto para el cerebro de un adolescente?",
+      "status": "PENDIENTE",
+      "accumulatedAmount": 200
+    }
+  },
+  {
+    "eventId": "evt_1792085212366_35zqdtt",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:52.366Z",
+    "game": "RULETA",
+    "data": {
+      "questionEventId": "evt_1792085211072_0b4kokw",
+      "questionId": "retirar_24",
+      "question": "Se dice que la marihuana es una \"droga de entrada\" (gateway drug). ¿Qué significa esto para el cerebro de un adolescente?",
+      "selectedOption": "B",
+      "selectedText": "Que acostumbra al sistema de recompensas del cerebro a necesitar sustancias químicas, haciéndolo más vulnerable a probar otras drogas",
+      "correctOption": "B",
+      "correctText": "Que acostumbra al sistema de recompensas del cerebro a necesitar sustancias químicas, haciéndolo más vulnerable a probar otras drogas",
+      "result": "CORRECTA",
+      "feedback": "NIDA indica que la exposición temprana al THC \"prepara\" las vías cerebrales para reaccionar más fuerte a otras drogas más peligrosas en el futuro",
+      "responseTimeSec": 1.3,
+      "creditsAwarded": 0,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792085217084_x2tylui",
+    "eventType": "WITHDRAW_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:26:57.084Z",
+    "game": "RULETA",
+    "data": {
+      "amount": 200,
+      "newBalance": 500
+    }
+  },
+  {
+    "eventId": "evt_1792085855094_jzb0iae",
+    "eventType": "SESSION_START",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:37:35.094Z",
+    "game": "SISTEMA",
+    "data": {
+      "initialCredits": 0,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "eventId": "evt_1792085983120_hbcvqpu",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:39:43.120Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_43",
+      "question": "¿Qué síntoma clínico clave diferencia un uso recreativo ocasional de un \"Trastorno por Consumo de Cannabis\" leve o moderado?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792086000671_y0zi28z",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:00.671Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_30",
+      "question": "Un chavo del equipo de fútbol lleva meses fumando diario. Últimamente, se le olvidan las jugadas, corre más lento y pierde el balón. ¿A qué se debe?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792086002756_8kaz6bh",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:02.756Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086000671_y0zi28z",
+      "questionId": "retirar_30",
+      "question": "Un chavo del equipo de fútbol lleva meses fumando diario. Últimamente, se le olvidan las jugadas, corre más lento y pierde el balón. ¿A qué se debe?",
+      "selectedOption": "B",
+      "selectedText": "El THC ha afectado su coordinación motora fina y su capacidad para recordar información rápida",
+      "correctOption": "B",
+      "correctText": "El THC ha afectado su coordinación motora fina y su capacidad para recordar información rápida",
+      "result": "CORRECTA",
+      "feedback": "El CDC explica que la marihuana afecta las áreas del cerebro responsables del equilibrio, postura, tiempo de reacción y memoria a corto plazo",
+      "responseTimeSec": 2.1,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086002756_xcntxdl",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:02.756Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 20,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792086004886_jxzfzmo",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:04.886Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_5",
+      "question": "¿Qué le pasa al cuerpo y mente de una persona adicta a la marihuana si intenta dejarla de golpe?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 1
+    }
+  },
+  {
+    "eventId": "evt_1792086007148_r9g3cqr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:07.148Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086004886_jxzfzmo",
+      "questionId": "retirar_5",
+      "question": "¿Qué le pasa al cuerpo y mente de una persona adicta a la marihuana si intenta dejarla de golpe?",
+      "selectedOption": "B",
+      "selectedText": "Experimenta síntomas de abstinencia como enojo, insomnio y falta de hambre",
+      "correctOption": "B",
+      "correctText": "Experimenta síntomas de abstinencia como enojo, insomnio y falta de hambre",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA (2024) detalla que la abstinencia incluye irritabilidad, ansiedad y problemas de sueño",
+      "responseTimeSec": 2.3,
+      "rachaBefore": 1,
+      "rachaAfter": 2,
+      "creditsAwarded": 40,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086007148_ngyb1d6",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:07.148Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 40,
+      "newBalance": 60,
+      "racha": 2
+    }
+  },
+  {
+    "eventId": "evt_1792086009655_osn005p",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:09.655Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_32",
+      "question": "¿Qué relación hay entre el consumo muy frecuente de marihuana en jóvenes y la \"Psicosis\"?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 2
+    }
+  },
+  {
+    "eventId": "evt_1792086010731_m0mkobf",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:10.731Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086009655_osn005p",
+      "questionId": "retirar_32",
+      "question": "¿Qué relación hay entre el consumo muy frecuente de marihuana en jóvenes y la \"Psicosis\"?",
+      "selectedOption": "C",
+      "selectedText": "Consumir mucha marihuana muy potente puede provocar alucinaciones, paranoia extrema o desconexión de la realidad",
+      "correctOption": "C",
+      "correctText": "Consumir mucha marihuana muy potente puede provocar alucinaciones, paranoia extrema o desconexión de la realidad",
+      "result": "CORRECTA",
+      "feedback": "El CDC reporta que dosis altas de THC pueden inducir episodios de psicosis aguda, y el uso crónico eleva el riesgo de esquizofrenia en personas vulnerables",
+      "responseTimeSec": 1.1,
+      "rachaBefore": 2,
+      "rachaAfter": 3,
+      "creditsAwarded": 60,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086010732_wk16jzg",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:10.732Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 60,
+      "newBalance": 120,
+      "racha": 3
+    }
+  },
+  {
+    "eventId": "evt_1792086013800_f45vq8b",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:13.800Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_8",
+      "question": "Un estudiante se da cuenta de que la marihuana le está causando problemas en casa y reprobó materias, pero siente que \"no puede\" parar de fumar. ¿Esto es evidencia de?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 3
+    }
+  },
+  {
+    "eventId": "evt_1792086016638_zlxxpz5",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:16.638Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086013800_f45vq8b",
+      "questionId": "retirar_8",
+      "question": "Un estudiante se da cuenta de que la marihuana le está causando problemas en casa y reprobó materias, pero siente que \"no puede\" parar de fumar. ¿Esto es evidencia de?",
+      "selectedOption": "B",
+      "selectedText": "Un Trastorno por Consumo de Cannabis (CUD)",
+      "correctOption": "B",
+      "correctText": "Un Trastorno por Consumo de Cannabis (CUD)",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA (2024) establece que seguir consumiendo a pesar de sufrir consecuencias negativas es un criterio claro de adicción",
+      "responseTimeSec": 2.8,
+      "rachaBefore": 3,
+      "rachaAfter": 4,
+      "creditsAwarded": 80,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086016638_47xikpi",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:16.638Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 80,
+      "newBalance": 200,
+      "racha": 4
+    }
+  },
+  {
+    "eventId": "evt_1792086017954_yrilytd",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:17.954Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_28",
+      "question": "Si alguien te presiona en una fiesta diciéndote: \"Ándale, pruébala, la marihuana cura el cáncer, es medicina\", ¿cuál es la mejor respuesta basada en ciencia?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 4
+    }
+  },
+  {
+    "eventId": "evt_1792086018980_ww33uf4",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:18.980Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086017954_yrilytd",
+      "questionId": "retirar_28",
+      "question": "Si alguien te presiona en una fiesta diciéndote: \"Ándale, pruébala, la marihuana cura el cáncer, es medicina\", ¿cuál es la mejor respuesta basada en ciencia?",
+      "selectedOption": "B",
+      "selectedText": "\"La ciencia dice que el THC puede aliviar náuseas en algunos pacientes, pero NO cura el cáncer, y a mi edad daña mi cerebro\"",
+      "correctOption": "B",
+      "correctText": "\"La ciencia dice que el THC puede aliviar náuseas en algunos pacientes, pero NO cura el cáncer, y a mi edad daña mi cerebro\"",
+      "result": "CORRECTA",
+      "feedback": "NIDA aclara que, aunque algunos medicamentos con cannabinoides alivian síntomas específicos (como náuseas por quimioterapia), la marihuana fumada no es una cura para ninguna enfermedad y daña a los menores",
+      "responseTimeSec": 1,
+      "rachaBefore": 4,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086018980_0mh9tkx",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:18.980Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 300,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792086020777_8zdm223",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:20.777Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_48",
+      "question": "Durante el proceso de abstinencia de marihuana, un síntoma físico muy común que experimentan los jóvenes adictos (y que a menudo ignoran) es:",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792086035730_jkpztpp",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:35.730Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 200
+    }
+  },
+  {
+    "eventId": "evt_1792086040734_t2xko31",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:40.734Z",
+    "game": "RULETA",
+    "data": {
+      "result": "LOSE",
+      "loss": 100,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792086041114_9rkz853",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:41.114Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 100
+    }
+  },
+  {
+    "eventId": "evt_1792086046117_t47z3p3",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:46.117Z",
+    "game": "RULETA",
+    "data": {
+      "result": "LOSE",
+      "loss": 100,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792086047227_ebh04fi",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:47.227Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 0
+    }
+  },
+  {
+    "eventId": "evt_1792086052229_cemwyw7",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:40:52.229Z",
+    "game": "RULETA",
+    "data": {
+      "result": "LOSE",
+      "loss": 100,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792086074321_9l5u0k5",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:14.321Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_2",
+      "question": "Si un amigo que consume marihuana muy seguido comienza a vomitar incontrolablemente cada semana y solo se alivia bañándose con agua muy caliente, ¿qué le podría estar pasando?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792086076634_9jh68ea",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:16.634Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086074321_9l5u0k5",
+      "questionId": "retirar_2",
+      "question": "Si un amigo que consume marihuana muy seguido comienza a vomitar incontrolablemente cada semana y solo se alivia bañándose con agua muy caliente, ¿qué le podría estar pasando?",
+      "selectedOption": "B",
+      "selectedText": "Tiene el Síndrome de Hiperemesis Cannabinoide",
+      "correctOption": "B",
+      "correctText": "Tiene el Síndrome de Hiperemesis Cannabinoide",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) explica que el uso constante de altas dosis puede causar este síndrome caracterizado por vómitos severos",
+      "responseTimeSec": 2.3,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086076634_m8z9oni",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:16.634Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 20,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792086077782_9pkk5va",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:17.782Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_15",
+      "question": "Si la marihuana afecta tu \"materia blanca\" en el cerebro adolescente, ¿qué te costará más trabajo hacer en la escuela?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 1
+    }
+  },
+  {
+    "eventId": "evt_1792086078932_5k739n3",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:18.932Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086077782_9pkk5va",
+      "questionId": "retirar_15",
+      "question": "Si la marihuana afecta tu \"materia blanca\" en el cerebro adolescente, ¿qué te costará más trabajo hacer en la escuela?",
+      "selectedOption": "C",
+      "selectedText": "Aprender reglas nuevas, resolver problemas complejos y mantener la atención",
+      "correctOption": "C",
+      "correctText": "Aprender reglas nuevas, resolver problemas complejos y mantener la atención",
+      "result": "CORRECTA",
+      "feedback": "El CDC (2024) indica que la materia blanca (encargada de la comunicación neuronal) dañada afecta el aprendizaje complejo",
+      "responseTimeSec": 1.1,
+      "rachaBefore": 1,
+      "rachaAfter": 2,
+      "creditsAwarded": 40,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086078932_tro6mhf",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:18.932Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 40,
+      "newBalance": 60,
+      "racha": 2
+    }
+  },
+  {
+    "eventId": "evt_1792086080207_o6j60f0",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:20.207Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_6",
+      "question": "Muchos jóvenes dicen: \"Yo uso marihuana para calmar mi ansiedad escolar\". Según la ciencia, ¿qué ocurre realmente a largo plazo?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 2
+    }
+  },
+  {
+    "eventId": "evt_1792086081494_kjb45pn",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:21.494Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086080207_o6j60f0",
+      "questionId": "retirar_6",
+      "question": "Muchos jóvenes dicen: \"Yo uso marihuana para calmar mi ansiedad escolar\". Según la ciencia, ¿qué ocurre realmente a largo plazo?",
+      "selectedOption": "C",
+      "selectedText": "Al inicio relaja, pero a la larga empeora los síntomas de ansiedad y depresión",
+      "correctOption": "C",
+      "correctText": "Al inicio relaja, pero a la larga empeora los síntomas de ansiedad y depresión",
+      "result": "CORRECTA",
+      "feedback": "El CDC (2024) señala que el uso constante está ligado a un empeoramiento de los problemas de salud mental a largo plazo",
+      "responseTimeSec": 1.3,
+      "rachaBefore": 2,
+      "rachaAfter": 3,
+      "creditsAwarded": 60,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086081494_cxvdr67",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:21.494Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 60,
+      "newBalance": 120,
+      "racha": 3
+    }
+  },
+  {
+    "eventId": "evt_1792086082666_zvt00rh",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:22.666Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_14",
+      "question": "\"Intenté dejar de fumar el fin de semana, pero me puse de tan mal humor que volví a fumar el lunes\". Esto es un ejemplo de:",
+      "status": "PENDIENTE",
+      "rachaCurrent": 3
+    }
+  },
+  {
+    "eventId": "evt_1792086084668_lj8qoqu",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:24.668Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086082666_zvt00rh",
+      "questionId": "retirar_14",
+      "question": "\"Intenté dejar de fumar el fin de semana, pero me puse de tan mal humor que volví a fumar el lunes\". Esto es un ejemplo de:",
+      "selectedOption": "B",
+      "selectedText": "El ciclo de abstinencia y recaída de una adicción",
+      "correctOption": "B",
+      "correctText": "El ciclo de abstinencia y recaída de una adicción",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) explica que el malestar de la abstinencia es la causa principal por la que los jóvenes recaen",
+      "responseTimeSec": 2,
+      "rachaBefore": 3,
+      "rachaAfter": 4,
+      "creditsAwarded": 80,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086084669_uif9oen",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:24.669Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 80,
+      "newBalance": 200,
+      "racha": 4
+    }
+  },
+  {
+    "eventId": "evt_1792086086160_jcexp8d",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:26.160Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_50",
+      "question": "¿A nivel estructural, cómo afecta el cannabis al \"Hipocampo\" del cerebro en desarrollo de un adolescente?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 4
+    }
+  },
+  {
+    "eventId": "evt_1792086088857_r7r98zz",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:28.857Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086086160_jcexp8d",
+      "questionId": "retirar_50",
+      "question": "¿A nivel estructural, cómo afecta el cannabis al \"Hipocampo\" del cerebro en desarrollo de un adolescente?",
+      "selectedOption": "C",
+      "selectedText": "Reduce el volumen celular y altera las neuronas encargadas de procesar y retener información nueva",
+      "correctOption": "C",
+      "correctText": "Reduce el volumen celular y altera las neuronas encargadas de procesar y retener información nueva",
+      "result": "CORRECTA",
+      "feedback": "NIDA asocia el uso temprano y constante con anomalías morfológicas en el hipocampo, resultando en un menor rendimiento académico y retención",
+      "responseTimeSec": 2.7,
+      "rachaBefore": 4,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086088858_27xmjq5",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:28.858Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 300,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792086090084_14i219a",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:30.084Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_33",
+      "question": "¿Qué debes hacer si te das cuenta de que tú o un amigo tienen problemas para dejar la marihuana?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792086091096_732lax9",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:31.096Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086090084_14i219a",
+      "questionId": "retirar_33",
+      "question": "¿Qué debes hacer si te das cuenta de que tú o un amigo tienen problemas para dejar la marihuana?",
+      "selectedOption": "C",
+      "selectedText": "Pedir ayuda a un psicólogo escolar, orientador o médico para recibir terapia de apoyo",
+      "correctOption": "C",
+      "correctText": "Pedir ayuda a un psicólogo escolar, orientador o médico para recibir terapia de apoyo",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA y NIDA recomiendan buscar ayuda profesional; terapias como la Cognitivo-Conductual son las más efectivas para superar la adicción en jóvenes",
+      "responseTimeSec": 1,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086091097_yecfced",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:31.097Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 400,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792086092244_a9zu277",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:32.244Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_22",
+      "question": "Estás en una fiesta y alguien te ofrece un brownie \"especial\" diciendo que no pasa nada porque es comida. ¿Qué es lo más seguro que debes recordar?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 5
+    }
+  },
+  {
+    "eventId": "evt_1792086093204_tj6a10o",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:33.204Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086092244_a9zu277",
+      "questionId": "retirar_22",
+      "question": "Estás en una fiesta y alguien te ofrece un brownie \"especial\" diciendo que no pasa nada porque es comida. ¿Qué es lo más seguro que debes recordar?",
+      "selectedOption": "B",
+      "selectedText": "Que los comestibles tardan mucho en hacer efecto y es facilísimo sufrir una sobredosis de THC por desesperación",
+      "correctOption": "B",
+      "correctText": "Que los comestibles tardan mucho en hacer efecto y es facilísimo sufrir una sobredosis de THC por desesperación",
+      "result": "CORRECTA",
+      "feedback": "El CDC y NIDA advierten que las intoxicaciones por comestibles son de las principales causas de visitas de adolescentes a urgencias",
+      "responseTimeSec": 1,
+      "rachaBefore": 5,
+      "rachaAfter": 5,
+      "creditsAwarded": 100,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086093205_oa1fvsy",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:33.205Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 100,
+      "newBalance": 500,
+      "racha": 5
+    }
+  },
+  {
+    "eventId": "evt_1792086100079_097klru",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:40.079Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 400
+    }
+  },
+  {
+    "eventId": "evt_1792086105084_q9g4jwr",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:45.084Z",
+    "game": "RULETA",
+    "data": {
+      "result": "WIN",
+      "winnings": 200,
+      "accumulated": 200,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792086105688_fqx2ekz",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:45.688Z",
+    "game": "RULETA",
+    "data": {
+      "questionId": "retirar_18",
+      "question": "Un riesgo oculto de la marihuana actual (ya sea en flor o vapeadores) comprada en las calles o redes sociales es:",
+      "status": "PENDIENTE",
+      "accumulatedAmount": 200
+    }
+  },
+  {
+    "eventId": "evt_1792086108631_alavilh",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:48.631Z",
+    "game": "RULETA",
+    "data": {
+      "questionEventId": "evt_1792086105688_fqx2ekz",
+      "questionId": "retirar_18",
+      "question": "Un riesgo oculto de la marihuana actual (ya sea en flor o vapeadores) comprada en las calles o redes sociales es:",
+      "selectedOption": "C",
+      "selectedText": "Que esté mezclada sin saberlo con drogas letales como el fentanilo",
+      "correctOption": "C",
+      "correctText": "Que esté mezclada sin saberlo con drogas letales como el fentanilo",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) alerta sobre el creciente peligro de contaminación cruzada en drogas ilícitas, causando sobredosis accidentales",
+      "responseTimeSec": 2.9,
+      "creditsAwarded": 0,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086113326_iwa6r74",
+    "eventType": "WITHDRAW_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:41:53.326Z",
+    "game": "RULETA",
+    "data": {
+      "amount": 200,
+      "newBalance": 600
+    }
+  },
+  {
+    "eventId": "evt_1792086124231_dzuz2qn",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:42:04.231Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 500
+    }
+  },
+  {
+    "eventId": "evt_1792086129238_7hengg7",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:42:09.238Z",
+    "game": "RULETA",
+    "data": {
+      "result": "LOSE",
+      "loss": 100,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792086129573_63288fo",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:42:09.573Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 400
+    }
+  },
+  {
+    "eventId": "evt_1792086134576_qw83u3p",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:42:14.576Z",
+    "game": "RULETA",
+    "data": {
+      "result": "WIN",
+      "winnings": 200,
+      "accumulated": 200,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792086135352_41p3son",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:42:15.352Z",
+    "game": "RULETA",
+    "data": {
+      "questionId": "retirar_7",
+      "question": "¿Cuánto tiempo puede quedarse rastreado el THC (químico de la marihuana) en tu cuerpo después de consumirla?",
+      "status": "PENDIENTE",
+      "accumulatedAmount": 200
+    }
+  },
+  {
+    "eventId": "evt_1792086138115_xjsru9e",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:42:18.115Z",
+    "game": "RULETA",
+    "data": {
+      "questionEventId": "evt_1792086135352_41p3son",
+      "questionId": "retirar_7",
+      "question": "¿Cuánto tiempo puede quedarse rastreado el THC (químico de la marihuana) en tu cuerpo después de consumirla?",
+      "selectedOption": "C",
+      "selectedText": "Se almacena en la grasa y puede detectarse semanas después",
+      "correctOption": "C",
+      "correctText": "Se almacena en la grasa y puede detectarse semanas después",
+      "result": "CORRECTA",
+      "feedback": "NIDA (2024) explica que el THC es liposoluble y permanece en el cuerpo por varios días o semanas",
+      "responseTimeSec": 2.8,
+      "creditsAwarded": 0,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086143769_pec085f",
+    "eventType": "WITHDRAW_COMPLETED",
+    "playerId": "ply_1792083440113_7bb7ud",
+    "username": "Alex",
+    "sessionId": "ses_1792083440113_21760i",
+    "timestamp": "2026-10-15T17:42:23.769Z",
+    "game": "RULETA",
+    "data": {
+      "amount": 200,
+      "newBalance": 600
+    }
+  },
+  {
+    "eventId": "evt_1792086670215_stlwtxz",
+    "eventType": "SESSION_START",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:51:10.215Z",
+    "game": "SISTEMA",
+    "data": {
+      "initialCredits": 0,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    }
+  },
+  {
+    "eventId": "evt_1792086727827_a9i5iaj",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:52:07.827Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_41",
+      "question": "¿Cómo impacta a largo plazo el consumo crónico de marihuana al \"núcleo accumbens\" (centro de placer) del cerebro?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792086735080_q0plfah",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:52:15.080Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086727827_a9i5iaj",
+      "questionId": "retirar_41",
+      "question": "¿Cómo impacta a largo plazo el consumo crónico de marihuana al \"núcleo accumbens\" (centro de placer) del cerebro?",
+      "selectedOption": "B",
+      "selectedText": "Desensibiliza los receptores de dopamina, dificultando sentir placer con actividades cotidianas como comer o socializar",
+      "correctOption": "B",
+      "correctText": "Desensibiliza los receptores de dopamina, dificultando sentir placer con actividades cotidianas como comer o socializar",
+      "result": "CORRECTA",
+      "feedback": "NIDA señala que el uso repetido adormece el circuito de recompensa natural, haciendo que solo la droga genere placer",
+      "responseTimeSec": 7.3,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086735082_eg1512y",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:52:15.082Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 20,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792086801578_g4095s0",
+    "eventType": "SESSION_START",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:53:21.578Z",
+    "game": "SISTEMA",
+    "data": {
+      "initialCredits": 0,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    }
+  },
+  {
+    "eventId": "evt_1792086823203_gqxes1h",
+    "eventType": "SESSION_START",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:53:43.203Z",
+    "game": "SISTEMA",
+    "data": {
+      "initialCredits": 0,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    }
+  },
+  {
+    "eventId": "evt_1792086861048_06nwxzd",
+    "eventType": "SESSION_START",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:54:21.048Z",
+    "game": "SISTEMA",
+    "data": {
+      "initialCredits": 0,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    }
+  },
+  {
+    "eventId": "evt_1792086888968_l6uq0ew",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:54:48.968Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_48",
+      "question": "Durante el proceso de abstinencia de marihuana, un síntoma físico muy común que experimentan los jóvenes adictos (y que a menudo ignoran) es:",
+      "status": "PENDIENTE",
+      "rachaCurrent": 0
+    }
+  },
+  {
+    "eventId": "evt_1792086902600_0i3agzd",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:02.600Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086888968_l6uq0ew",
+      "questionId": "retirar_48",
+      "question": "Durante el proceso de abstinencia de marihuana, un síntoma físico muy común que experimentan los jóvenes adictos (y que a menudo ignoran) es:",
+      "selectedOption": "B",
+      "selectedText": "Sudoración nocturna intensa, cambios de temperatura y escalofríos severos",
+      "correctOption": "B",
+      "correctText": "Sudoración nocturna intensa, cambios de temperatura y escalofríos severos",
+      "result": "CORRECTA",
+      "feedback": "SAMHSA lista la inestabilidad autonómica y de la temperatura corporal como un síntoma de abstinencia física comprobable",
+      "responseTimeSec": 13.6,
+      "rachaBefore": 0,
+      "rachaAfter": 1,
+      "creditsAwarded": 20,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086902601_tfiwztg",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:02.601Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 20,
+      "newBalance": 20,
+      "racha": 1
+    }
+  },
+  {
+    "eventId": "evt_1792086908138_q41xw7f",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:08.138Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_47",
+      "question": "¿Qué es el metabolito \"11-hidroxi-THC\" y por qué representa un riesgo elevado en urgencias médicas?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 1
+    }
+  },
+  {
+    "eventId": "evt_1792086930317_4063tdr",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:30.317Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086908138_q41xw7f",
+      "questionId": "retirar_47",
+      "question": "¿Qué es el metabolito \"11-hidroxi-THC\" y por qué representa un riesgo elevado en urgencias médicas?",
+      "selectedOption": "B",
+      "selectedText": "Es el metabolito hiperpotente que produce el hígado al ingerir marihuana comestible, causando efectos mucho más fuertes e impredecibles que al fumarla",
+      "correctOption": "B",
+      "correctText": "Es el metabolito hiperpotente que produce el hígado al ingerir marihuana comestible, causando efectos mucho más fuertes e impredecibles que al fumarla",
+      "result": "CORRECTA",
+      "feedback": "NIDA explica la farmacocinética de primer paso hepático en los comestibles, siendo el principal culpable de intoxaciones agudas en jóvenes",
+      "responseTimeSec": 22.2,
+      "rachaBefore": 1,
+      "rachaAfter": 2,
+      "creditsAwarded": 40,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086930318_frslk80",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:30.318Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 40,
+      "newBalance": 60,
+      "racha": 2
+    }
+  },
+  {
+    "eventId": "evt_1792086932886_d5kx8fj",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:32.886Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionId": "retirar_39",
+      "question": "¿Por qué es muy peligroso el mercado ilegal de marihuana, de acuerdo a recientes alertas médicas?",
+      "status": "PENDIENTE",
+      "rachaCurrent": 2
+    }
+  },
+  {
+    "eventId": "evt_1792086943820_otvdivu",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:43.820Z",
+    "game": "CREDITOS",
+    "data": {
+      "questionEventId": "evt_1792086932886_d5kx8fj",
+      "questionId": "retirar_39",
+      "question": "¿Por qué es muy peligroso el mercado ilegal de marihuana, de acuerdo a recientes alertas médicas?",
+      "selectedOption": "B",
+      "selectedText": "Porque muchas veces las drogas vienen contaminadas con Fentanilo, un opioide mortal capaz de causar una sobredosis con solo tocarlo o probarlo",
+      "correctOption": "B",
+      "correctText": "Porque muchas veces las drogas vienen contaminadas con Fentanilo, un opioide mortal capaz de causar una sobredosis con solo tocarlo o probarlo",
+      "result": "CORRECTA",
+      "feedback": "NIDA advierte repetidamente que muchas sustancias en la calle (incluidos vapes o flores falsificadas) son mezcladas con fentanilo para hacerlas más adictivas, causando miles de muertes accidentales",
+      "responseTimeSec": 10.9,
+      "rachaBefore": 2,
+      "rachaAfter": 3,
+      "creditsAwarded": 60,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792086943820_9cj7k2s",
+    "eventType": "CREDITS_AWARDED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:55:43.820Z",
+    "game": "CREDITOS",
+    "data": {
+      "reward": 60,
+      "newBalance": 120,
+      "racha": 3
+    }
+  },
+  {
+    "eventId": "evt_1792086970648_7h5x0ro",
+    "eventType": "BET_PLACED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:56:10.648Z",
+    "game": "RULETA",
+    "data": {
+      "betAmount": 100,
+      "multiplier": "x2",
+      "newBalance": 20
+    }
+  },
+  {
+    "eventId": "evt_1792086975650_jmv3vxq",
+    "eventType": "SPIN_COMPLETED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:56:15.650Z",
+    "game": "RULETA",
+    "data": {
+      "result": "WIN",
+      "winnings": 200,
+      "accumulated": 200,
+      "multiplier": "x2"
+    }
+  },
+  {
+    "eventId": "evt_1792086991033_ehp287x",
+    "eventType": "QUESTION_PRESENTED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:56:31.033Z",
+    "game": "RULETA",
+    "data": {
+      "questionId": "retirar_34",
+      "question": "\"Mis papás fuman marihuana, así que no tiene nada de malo que yo lo haga a mis 16 años\". ¿Cuál es el error en ese pensamiento?",
+      "status": "PENDIENTE",
+      "accumulatedAmount": 200
+    }
+  },
+  {
+    "eventId": "evt_1792087002648_8q5nt3c",
+    "eventType": "QUESTION_ANSWERED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:56:42.648Z",
+    "game": "RULETA",
+    "data": {
+      "questionEventId": "evt_1792086991033_ehp287x",
+      "questionId": "retirar_34",
+      "question": "\"Mis papás fuman marihuana, así que no tiene nada de malo que yo lo haga a mis 16 años\". ¿Cuál es el error en ese pensamiento?",
+      "selectedOption": "B",
+      "selectedText": "Que el cerebro de sus papás ya terminó de formarse, pero el de un joven de 16 años puede sufrir daños cognitivos permanentes",
+      "correctOption": "B",
+      "correctText": "Que el cerebro de sus papás ya terminó de formarse, pero el de un joven de 16 años puede sufrir daños cognitivos permanentes",
+      "result": "CORRECTA",
+      "feedback": "El CDC es enfático: el impacto en la estructura del cerebro (materia blanca y conexiones neuronales) es irreversible si se interrumpe el desarrollo adolescente, a diferencia de un cerebro maduro",
+      "responseTimeSec": 11.6,
+      "creditsAwarded": 0,
+      "status": "CORRECTA"
+    }
+  },
+  {
+    "eventId": "evt_1792087019346_37heqn1",
+    "eventType": "WITHDRAW_COMPLETED",
+    "playerId": "ply_1792086670215_hhdkir",
+    "username": "Alex",
+    "sessionId": "ses_1792086670215_00pwt3",
+    "timestamp": "2026-10-15T17:56:59.346Z",
+    "game": "RULETA",
+    "data": {
+      "amount": 200,
+      "newBalance": 220
+    }
+  }
+]
